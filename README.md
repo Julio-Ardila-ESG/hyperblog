@@ -32,3 +32,14 @@ utilizando los datos del usuario y los de la fila como parámetros de la URL.
 
 Puedes publicar este proyecto en GitHub de forma gratuita y ejecutar el script
 de manera local para realizar pruebas.
+
+## Aplicación web
+
+También puedes probar un formulario web simple ejecutando:
+
+```bash
+python web_form.py
+```
+
+Luego abre `http://localhost:5000` en tu navegador. Completa el formulario con
+las credenciales y selecciona el archivo XLSX a procesar.
